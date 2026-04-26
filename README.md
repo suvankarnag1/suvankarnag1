@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Profile
 
-Azure Data Engineer with 4+ years of experience building scalable and reliable data platforms on Azure.  
+Azure Data Engineer with 5+ years of experience building scalable and reliable data platforms on Azure.  
 Specialized in designing ETL/ELT pipelines, transforming large datasets using PySpark, and delivering business insights through Power BI.
 
 ---
