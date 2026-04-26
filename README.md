@@ -47,6 +47,21 @@ Specialized in designing ETL/ELT pipelines, transforming large datasets using Py
 </p>
 
 ---
+## 🎓 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/6549cdfb-e856-4c60-9096-ac038884c197/public_url">
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Fundamentals%20(DP--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://credentials.databricks.com/10602d65-573c-4a42-a153-30cc71e3edfd#acc.q6fGg3dj">
+    <img src="https://img.shields.io/badge/Databricks%20Academy-Fundamentals-EA4335?style=for-the-badge&logo=databricks&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 ## 🚀 Key Work
 
