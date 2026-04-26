@@ -12,11 +12,11 @@
   <a href="mailto:suvankarnag1993@outlook.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://x.com/SuvankarNag6">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
   <a href="https://stackoverflow.com/users/23208999/suvankar-nag">
     <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  </a>
+  <a href="https://x.com/SuvankarNag6">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
 
