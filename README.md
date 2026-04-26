@@ -82,6 +82,31 @@ Specialized in designing ETL/ELT pipelines, transforming large datasets using Py
 
 ---
 
+
+## 💼 Experience
+
+<p align="center">
+  <b>Azure Data Engineer</b><br>
+  <b>SPAATech Solution India</b><br>
+  <i>Feb 2024 – Apr 2025</i>
+</p>
+
+<br>
+
+<p align="center">
+  🚀 Designed and developed scalable data pipelines using <b>Azure Data Factory (ADF)</b><br>
+  ⚡ Built and optimized <b>PySpark</b> transformations in <b>Azure Databricks</b><br>
+  🏗️ Implemented <b>Medallion Architecture (Bronze → Silver → Gold)</b><br>
+  🗄️ Managed <b>raw (Bronze) data</b> in <b>Azure Data Lake Storage Gen2 (ADLS Gen2)</b><br>
+  🧱 Leveraged <b>Delta Lake</b> for <b>Silver (cleaned)</b> and <b>Gold (aggregated)</b> layers<br>
+  🔗 Integrated multiple data sources into <b>ADLS Gen2</b><br>
+  📊 Delivered interactive <b>Power BI</b> dashboards for business insights<br>
+  🤝 Worked in Agile environments using <b>Azure DevOps</b>
+</p>
+
+
+---
+
 ## 📊 GitHub Insights
 
 <p align="center">
