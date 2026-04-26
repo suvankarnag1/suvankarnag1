@@ -110,9 +110,16 @@ Specialized in designing ETL/ELT pipelines, transforming large datasets using Py
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=suvankarnag1&show_icons=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=suvankarnag1" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suvankarnag1&theme=2077" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suvankarnag1&theme=2077" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suvankarnag1&theme=2077" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suvankarnag1&theme=2077&utcOffset=8" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=suvankarnag1&theme=github-dark&hide_border=true" height="150"/>
 </p>
+
+
+
+
 
 ---
 
